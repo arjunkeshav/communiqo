@@ -44,7 +44,7 @@ class _GetCompanyIdState extends State<GetCompanyId> {
                 crossAxisAlignment: CrossAxisAlignment.center,
                 children: [
                   Container(
-                    height: 55,
+                    height: 58,
                     decoration: BoxDecoration(
                         image: DecorationImage(image: AssetImage(Assets.logo))),
                   ),
